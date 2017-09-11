@@ -1,0 +1,12 @@
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\KeyWordIndex.exe.config
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\KeyWordIndex.exe
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\KeyWordIndex.pdb
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.csprojResolveAssemblyReference.cache
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.Form1.resources
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.Properties.Resources.resources
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.csproj.GenerateResource.Cache
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.exe
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.pdb
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.csproj.ResolveComReference.cache
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\WordClassLibrary.dll
+E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\WordClassLibrary.pdb

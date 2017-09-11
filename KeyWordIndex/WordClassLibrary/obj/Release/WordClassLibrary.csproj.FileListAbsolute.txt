@@ -1,0 +1,5 @@
+E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\bin\Release\WordClassLibrary.dll
+E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\bin\Release\WordClassLibrary.pdb
+E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.csproj.ResolveComReference.cache
+E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.dll
+E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.pdb
