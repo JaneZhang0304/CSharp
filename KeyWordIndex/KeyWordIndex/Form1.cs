@@ -111,7 +111,8 @@ namespace KeyWordIndex
             
             List<FileInfo> sourceFiles = GetSourceFiles(new DirectoryInfo(sourceFolder));
             total = sourceFiles.Count;
-            ProcessDocx pd = new ProcessDocx();
+            backgroundWorker1.ReportProgress(100 * (pass + failure) / total, null);
+            ProcessWord pd = new ProcessWord();
             try
             {
                 pd.OpenApplication();
@@ -165,11 +166,15 @@ namespace KeyWordIndex
 
         private List<FileInfo> GetSourceFiles(DirectoryInfo sourceDirInfo)
         {
-            FileInfo[] files = sourceDirInfo.GetFiles("*.docx", SearchOption.AllDirectories);
-            if (files != null)
-                return files.ToList();
-            else
-                return null;
+            List<FileInfo> list = new List<FileInfo>();
+            FileInfo[] filesDocx = sourceDirInfo.GetFiles("*.docx", SearchOption.AllDirectories);
+            FileInfo[] filesDoc = sourceDirInfo.GetFiles("*.doc", SearchOption.AllDirectories);
+            if (filesDocx != null)
+                list.AddRange(filesDocx.ToList());
+            if (filesDoc != null)
+                list.AddRange(filesDoc.ToList());            
+            
+            return list;            
         }
 
         

@@ -7,3 +7,8 @@ E:\work\技术开发中心\张闯\KeyWordIndex\ConsoleApplication1\obj\Debug\Con
 E:\work\技术开发中心\张闯\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
 E:\work\技术开发中心\张闯\KeyWordIndex\ConsoleApplication1\bin\Debug\WordClassLibrary.dll
 E:\work\技术开发中心\张闯\KeyWordIndex\ConsoleApplication1\bin\Debug\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\Interop.Office.dll
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -17,15 +17,15 @@ namespace ConsoleApplication1
         {
             try
             {
-                object fileName = Path.Combine(Environment.CurrentDirectory,"test.docx");
-                object newFileName = Path.Combine(Environment.CurrentDirectory,"new.docx");
+                object fileName = Path.Combine(Environment.CurrentDirectory,"test2.doc");
+                object newFileName = Path.Combine(Environment.CurrentDirectory,"new.doc");
 
                 if(!File.Exists(fileName.ToString()))
                 {
                     Console.WriteLine("不存在：" + fileName);
                 }
 
-                ProcessDocx pd = new ProcessDocx();
+                ProcessWord pd = new ProcessWord();
                 try
                 {
                     pd.OpenApplication();
