@@ -167,10 +167,11 @@ namespace KeyWordIndex
         private List<FileInfo> GetSourceFiles(DirectoryInfo sourceDirInfo)
         {
             List<FileInfo> list = new List<FileInfo>();
-            FileInfo[] filesDocx = sourceDirInfo.GetFiles("*.docx", SearchOption.AllDirectories);
-            FileInfo[] filesDoc = sourceDirInfo.GetFiles("*.doc", SearchOption.AllDirectories);
-            if (filesDocx != null)
-                list.AddRange(filesDocx.ToList());
+            //FileInfo[] filesDocx = sourceDirInfo.GetFiles("*.docx", SearchOption.AllDirectories);            
+            //if (filesDocx != null)
+            //    list.AddRange(filesDocx.ToList());
+
+            FileInfo[] filesDoc = sourceDirInfo.GetFiles("*.doc", SearchOption.AllDirectories);//会提取docx和doc文件
             if (filesDoc != null)
                 list.AddRange(filesDoc.ToList());            
             

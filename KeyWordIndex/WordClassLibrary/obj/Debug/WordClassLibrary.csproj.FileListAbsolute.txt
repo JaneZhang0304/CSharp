@@ -4,3 +4,9 @@ E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Debug\WordCl
 E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.dll
 E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.pdb
 E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.csprojResolveAssemblyReference.cache
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\bin\Debug\WordClassLibrary.dll
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\bin\Debug\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.csprojResolveAssemblyReference.cache
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.csproj.ResolveComReference.cache
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.dll
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Debug\WordClassLibrary.pdb

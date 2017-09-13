@@ -10,3 +10,15 @@ E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordInd
 E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.csproj.ResolveComReference.cache
 E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\WordClassLibrary.dll
 E:\work\技术开发中心\张闯\KeyWordIndex\KeyWordIndex\bin\Debug\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\bin\Debug\KeyWordIndex.exe.config
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\Interop.Office.dll
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.csproj.ResolveComReference.cache
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.exe
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.pdb
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\bin\Debug\KeyWordIndex.exe
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\bin\Debug\KeyWordIndex.pdb
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\bin\Debug\WordClassLibrary.dll
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\bin\Debug\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.Form1.resources
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.Properties.Resources.resources
+E:\test\github\CSharp\KeyWordIndex\KeyWordIndex\obj\Debug\KeyWordIndex.csproj.GenerateResource.Cache

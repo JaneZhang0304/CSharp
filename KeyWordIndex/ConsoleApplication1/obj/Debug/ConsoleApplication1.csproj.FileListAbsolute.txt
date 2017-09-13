@@ -12,3 +12,8 @@ E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\Interop.Office.
 E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.ResolveComReference.cache
 E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\bin\Debug\WordClassLibrary.dll
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\bin\Debug\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache

@@ -3,3 +3,8 @@ E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\bin\Release\Word
 E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.csproj.ResolveComReference.cache
 E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.dll
 E:\work\技术开发中心\张闯\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\bin\Release\WordClassLibrary.dll
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\bin\Release\WordClassLibrary.pdb
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.csproj.ResolveComReference.cache
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.dll
+E:\test\github\CSharp\KeyWordIndex\WordClassLibrary\obj\Release\WordClassLibrary.pdb
